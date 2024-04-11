@@ -1,0 +1,6 @@
+../Core/Src/global.c:19:5:__io_putchar	16	static
+../Core/Src/global.c:25:6:countDown	8	static
+../Core/Src/global.c:32:6:setInitialValue	16	static
+../Core/Src/global.c:39:6:setHorizontalLeds	24	static
+../Core/Src/global.c:57:6:setVerticalLeds	24	static
+../Core/Src/global.c:76:6:setPedesLeds	24	static
